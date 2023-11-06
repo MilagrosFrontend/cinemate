@@ -65,9 +65,11 @@ function buscarPelis(){
 
 /* Al cargar la página ejecuta la función buscarPelis */
 window.addEventListener('load', function() {
-  
+
   buscarPelis()
-  pelisEnModal()
+  setTimeout(() => {
+    pelisEnModal();
+  },300)
 
 });
 
