@@ -2,6 +2,9 @@
 
 Cinemate es un sitio web que te permite explorar las últimas películas en tendencia. Descubre nuevas películas, obtén detalles sobre ellas y disfruta de su sinopsis antes de decidir qué ver a continuación. ¡Sumérgete en el emocionante mundo del cine con Cinemate!
 
+![image](https://github.com/MilagrosFrontend/cinemate/assets/105617219/c04336a1-7934-47b7-ab1e-6118dc3c71b3)
+
+
 ## Características
 
 - Explora las películas en tendencia actualmente.
