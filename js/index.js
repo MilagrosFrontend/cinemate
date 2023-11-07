@@ -48,7 +48,7 @@ window.addEventListener('load', function() {
   
       });
     });
-    },300)  // Upcoming es una consulta que requiere más tiempo
+    },400)  // Upcoming es una consulta que requiere más tiempo
 
 })
 
